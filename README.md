@@ -36,6 +36,21 @@
 
 <img src="https://github.com/bhargavchowdary2271/5243334_chundru-bhargav-chowdary/blob/main/LINUX/linux7.png" alt="image">
 
+!\[alt text](https://github.com/bhargavchowdary2271/5243334_chundru-bhargav-chowdary/blob/main/C%20programming/sololearn%20certificate.jpg)
+
+<img src="https://github.com/bhargavchowdary2271/5243334_chundru-bhargav-chowdary/blob/main/C%20programming/sololearn%20certificate.jpg" alt="image">
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
